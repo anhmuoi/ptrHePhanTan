@@ -16,7 +16,6 @@ const TextInputModal = (props) => {
             <div className="modal-background" />
             <div className="modal-card">
                 <header className="modal-card-head">
-                    <p className="modal-card-title">Add Text</p>
                     <button className="delete" aria-label="close" onClick={props.onClose} >x</button>
                 </header>
                 <section className="modal-card-body">
