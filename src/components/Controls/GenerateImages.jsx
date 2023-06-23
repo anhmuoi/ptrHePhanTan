@@ -1,6 +1,6 @@
 import React, { Component, useState } from 'react';
 import * as canvasUtils from '../../utils/CanvasUtils.jsx';
-import ImageModal from '../common/imageModal';
+import ImageModal from '../common/imageModal.js';
 
 const GenerateImages = () => {
     const [isOpen, setIsOpen] = useState(false);
