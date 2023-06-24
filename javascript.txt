@@ -1,0 +1,70 @@
+JavaScript là ngôn ngữ lập trình phổ biến nhất trên thế giới trong suốt 20 năm qua. Nó cũng là một trong số 3 ngôn ngữ chính của lập trình web:
+
+HTML: Giúp bạn thêm nội dung cho trang web.
+CSS: Định dạng thiết kế, bố cục, phong cách, canh lề của trang web.
+JavaScript: Cải thiện cách hoạt động của trang web.
+JavaScript có thể học nhanh và dễ dàng áp dụng cho nhiều mục đích khác nhau, từ việc cải thiện tính năng của website đến việc chạy game và tạo phần mềm nền web. Hơn nữa, có hàng ngàn mẫu template JavaScript và ứng dụng ngoài kia, nhờ vào sự cống hiến của cộng đồng, đặc biệt là Github.
+JavaScript được tạo trong mười ngày bởi Brandan Eich, một nhân viên của Netscape, vào tháng 9 năm 1995. Được đặt tên đầu tiên là Mocha, tên của nó được đổi thành Mona rồi LiveScript trước khi thật sự trở thành JavaScript nổi tiếng như bây giờ. Phiên bản đầu tiên của ngôn ngữ này bị giới hạn độc quyền bởi Netscape và chỉ có các tính năng hạn chế, nhưng nó tiếp tục phát triển theo thời gian, nhờ một phần vào cộng đồng các lập trình viên đã liên tục làm việc với nó.
+
+Trong năm 1996, JavaScript được chính thức đặt tên là ECMAScript. ECMAScript 2 phát hành năm 1998 và ECMAScript 3 tiếp tục ra mắt vào năm 1999. Nó liên tục phát triển thành JavaScript ngày nay, giờ đã hoạt động trên khắp mọi trình duyệt và trên khắp các thiết bị từ di động đến máy tính bàn.
+
+JavaScript liên tục phát triển kể từ đó, có lục đạt đến 92% website đang sử dụng JavaScript vào năm 2016. Chỉ trong 20 năm, nó từ một ngôn ngữ lập trình riêng trở thành công cụ quan trọng nhất trên bộ công cụ của các chuyên viên lập trình web. Nếu bạn đang dùng internet, vậy chắc chắn bạn đã từng sử dụng JavaScript rồi.
+
+Điều gì khiến JavaScript trở nên vĩ đại?
+JavaScript có rất nhiều ưu điểm khiến nó vượt trội hơn so với các đối thủ, đặc biệt trong các trường hợp thực tế. Sau đây chỉ là một số lợi ích của JavaScript:
+
+Bạn không cần một compiler vì web browser có thể biên dịch nó bằng HTML;
+Nó dễ học hơn các ngôn ngữ lập trình khác;
+Lỗi dễ phát hiện hơn và vì vậy dễ sửa hơn;
+Nó có thể được gắn trên một số element của trang web hoặc event của trang web như là thông qua click chuột hoặc di chuột tới;
+JS hoạt động trên nhiều trình duyệt, nền tảng, vâng vâng;
+Bạn có thể sử dụng JavaScript để kiểm tra input và giảm thiểu việc kiểm tra thủ công khi truy xuất qua database;
+Nó giúp website tương tác tốt hơn với khách truy cập;
+Nó nhanh hơn và nhẹ hơn các ngôn ngữ lập trình khác.
+Khuyết điểm của JavaScript là gì?
+Mọi ngôn ngữ lập trình đều có các khuyết điểm. Một phần là vì ngôn ngữ đó khi phát triển đến một mức độ như JavaScript, nó cũng sẽ thu hút lượng lớn hacker, scammer, và những người có ác tâm luôn tìm kiếm những lỗ hổng và các lỗi bảo mật để lợi dụng nó. Một số khuyết điểm có thể kể đến là:
+
+Dễ bị khai thác;
+Có thể được dùng để thực thi mã độc trên máy tính của người dùng;
+Nhiều khi không được hỗ trợ trên mọi trình duyệt;
+JS code snippets lớn;
+Có thể bị triển khai khác nhau tùy từng thiết bị dẫn đến việc không đồng nhất.
+Cách hoạt động của JavaScript trên trang web là gì?
+JavaScript thường được nhúng trực tiếp vào một trang web hoặc được tham chiếu qua file .js riêng. Nó là ngôn ngữ phía client, tức là script được tải về máy của khách truy cập và được xử lý tại đó thay vì phía server là xử lý trên server rồi mới đưa kết quả tới khách truy cập.
+
+Hãy lưu ý là các trình duyệt web phổ biến cũng hỗ trợ việc người dùng có muốn tắt JavaScript hay không. Đó là lý do bạn nên biết trang web sẽ hoạt động như thế nào torng trường hợp không có JavaScript.
+
+Điểm khác biệt giữa các ngôn ngữ lập trình khác và JavaScript là gì?
+Lý do vì sao JavaScript là một trong các ngôn ngữ lập trình phổ biến nhất là nó rất linh hoạt. Trên thực tế, có nhiều lập trình viên chọn nó làm ngôn ngữ chính và chỉ sử dụng các ngôn ngữ khác trong danh sách bên dưới nếu nóhọ cần dùng điều gì đó đặc biệt.
+
+Hãy xem qua các ngôn ngữ lập trình phổ biến nhất bên dưới:
+
+JavaScript	JavaScript hoặc JS sẽ giúp tăng tính tương tác trên website. Script này chạy trên các trình duyệt của người dùng thay vì trên server và thường sử dụng thư vuiên của bên thứ 3 nên có thể tăng thêm chức năng cho website mà không phải code từ đầu.
+HTML	Viết tắt của “Hypertext Markup Language”, HTML là một trong số các ngôn ngữ lập trình phổ biến nhất trên web và xây dựng nên các khối chính của một trang web. Ví dụ về HTML tags là <p> cho đoạn văn và <img> cho hình ảnh.
+PHP	PHP là ngôn ngữ phía server, khác với JavaScript chạy trên máy client. Nó thường được sử dụng trong các hệ quản trị nội dung nền PHP như WordPress, nhưng cũng thường được dùng với lập trình back-end và có thể tạo ra kênh truyền thông tin hiệu quả nhất tới và từ database.
+CSS	CSS viết tắt của “Cascading Style Sheets” , nó giúp webmaster xác định styles và định nghĩa nhiều loại nội dung. Bạn có thể làm vậy thủ công với mọi yếu tố trong HTML, nhưng nếu vậy bạn sẽ cứ lặp đi lặp lại thành phần đó mà bạn dùng ở nhiều nơi khác nhau.
+Nếu xem ngôn ngữ lập trình như là việc xây ngôi nhà, HTML sẽ định dạng kiến trúc của căn nhà, CSS sẽ là thảm và tường để trang trí ngôi nhà đẹp hơn. JavaScript thêm yếu tố tương tác trong ngôi nhà, như là việc mở cánh cửa và làm đèn sáng. Bạn vẫn có thể làm web mà không có JavaScript nhưng rủi ro là website của bạn trông như là những web thời những năm 1995.
+
+Làm thế nào để thêm JavaScript trên website của bạn?
+Để thêm chuỗi code JavaScript code vào trang web, bạn sẽ cần gắn tag <script>. Ví dụ như sau:
+
+<script type="text/javascript">
+Your JavaScript code
+</script>
+Với quy tắc cơ bản, bạn nên gắn JavaScript trong tag <header> cho website của bạn trừ khi bạn muốn nó thực thi tại một thời điểm nhất định hoặc một yếu tố nhất định của trang web. Bạn cũng có thể lưu code JavaScript dưới file riêng và gọi nó lên mỗi khi cần trên website.
+
+Để tìm hiểu thêm, hãy xem qua hướng dẫn làm thế nào để thêm JavaScript vào trang web của bạn.
+
+Vậy, JavaScript là gì?
+JavaScript là ngôn ngữ lập trình mang đến sự sinh động của website. Nó khác với HTML (thường chuyên cho nội dung) và CSS (thường chuyên dùng cho phong cách), và khác hẵn với PHP (chạy trên server chứ không chạy dưới máy client).
+
+Bạn cần biết gì:
+
+JavaScript là ngôn ngữ dễ học;
+Nó được phát triển bởi Netscape, và đang được dùng trên 92% webstie;
+JS có thể được gắn vào một element của trang web hoặc sự kiện của trang web như cú click chuột;
+Hoạt động trên đa trình duyệt và đa thiết bị;
+Nhanh và nhẹ hơn các ngôn ngữ lập trình khác;
+Có thể ít an toàn hơn vì độ phổ biến của nó;
+Bạn có thể thêm JavaScript trực tiếp vào HTML hoặc bạn có thể lưu nó trên files riêng biệt và gọi lên khi cần.
+Cuối cùng, có một lý do vì sao JavaScript phổ biến đến vậy là: nó làm tốt những gì nó có thể làm. Vậy bạn không cần phải đắn đo nữa khi tìm hiểu về nó đâu! Chúng tôi hy vọng bài viết này đã giúp ích cho bạn và giúp bạn biết JavaScript là gì, cũng như cách thức hoạt động của nó.
