@@ -1,25 +1,23 @@
 import logo from './logo.svg';
-import './App.css';
+import BasicControlsContainer from './components/Controls/index.jsx';
+import Canvas from './components/Canvas.jsx';
+import ObjectControlsContainer from './components/ObjectControls';
+import { useSelector } from 'react-redux';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="work columns">
+            <div className="column relative">
+                <div>
+                    <Canvas />
+                </div>
+                <BasicControlsContainer />
+            </div>
+            <div className="column is-narrow">
+                <ObjectControlsContainer />
+            </div>
+        </div>
+    );
 }
 
 export default App;
